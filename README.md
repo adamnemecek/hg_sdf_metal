@@ -5,7 +5,7 @@
     //     GLSL LIBRARY FOR BUILDING SIGNED DISTANCE BOUNDS  
     //  
     //     version 2016-01-10  
-    //     Metal version 2016-09-05 (with modifications by @warrenm)  
+    //     Metal version 2016-09-05 (modifications by @warrenm)  
     //  
     //     Check http://mercury.sexy/hg_sdf for updates  
     //     and usage examples. Send feedback to spheretracing@mercury.sexy.  
