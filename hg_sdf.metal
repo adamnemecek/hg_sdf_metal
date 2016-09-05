@@ -502,7 +502,7 @@ static float pmodMirror1(thread float &p, float size) {
 }
 
 // Repeat the domain only in positive direction. Everything in the negative half-space is unchanged.
-static float pmodSingle1(float &p, float size) {
+static float pmodSingle1(thread float &p, float size) {
     float halfsize = size*0.5;
     float c = floor((p + halfsize)/size);
     if (p >= 0)
